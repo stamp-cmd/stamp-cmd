@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stamp-cmd
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning python, javascript, html/css, c/c++
-- 📫 How to reach me stampkantanatlaptop@hotmail.com
+- 📫 How to reach me stampkantanatlaptop@hotmail.com i'm not likely to read email.
 
 <!---
 stamp-cmd/stamp-cmd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
