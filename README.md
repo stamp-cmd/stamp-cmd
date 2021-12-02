@@ -1,6 +1,6 @@
 ### Introduction
 - 👋 Hi, I’m @stamp-cmd
-- 👀 I’m interested in making library, c++, js
+- 👀 I’m interested in making library, c++, js and powershell
 - 🌱 I’m currently learning python, javascript, html/css, c/c++
 - 📫 How to reach me stampkantanatlaptop@hotmail.com I'm kinda busy so I may not read it.
 
