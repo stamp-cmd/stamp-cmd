@@ -1,7 +1,7 @@
 # Introduction
 - :wave: Hi, I’m [@stamp-cmd](https://github.com/stamp-cmd/).
 - :eyes: I’m interested in making library, c++, js and powershell.
-- :seedling: I’m currently learning python, javascript, html/css, c/c++.
+- :seedling: I’m currently learning Bash scripting, xdotool and Bottles/wine
 - :mailbox: How to reach me [stampkantanatlaptop@hotmail.com](mailto:stampkantanatlaptop@hotmail.com) I'm kinda busy so I may not read it.
 - :page_facing_up: Fix documentation somestimes, especially markdown and maybe restrustedtext.
 
